@@ -55,7 +55,7 @@ More details: https://yale-lily.github.io/spider
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Hugging Face Transformers, Datasets, and Accelerate  
 - Spider dataset creators  
